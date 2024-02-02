@@ -5,21 +5,19 @@
 <title>Teatro</title>
 </head>
 <body style="background-color:grey">
-<h1 style="background-color:red; font-size:50px">Patatas fritas</h1> <p style="font-size:30px">.</p>
-<img src="imagenes/patatas.jpeg" width="300" height="225" alt="Patatas fritas con ajos."> <h2 style="color:blue; font-size: 40px">Ingredientes</h2>
+<h1 style="background-color:red; font-size:50px">Teatro.</h1>
+<p style="font-size:30px">Desde pequeña me a gustado mucho el mundo del teatro y de actuar,estuve 2 años en teatro y hice 3 o 4 actuaciones, pero me quite por una cosa que me paso, pero me gustaria volver ha apuntarme.
+<img src="Teatro.jpeg" width="300" height="225" alt="Teatro."> 
+<h2 style="color:blue; font-size: 40px">Actuar.</h2>
+<p style="font-size:30px">La gente se piensa que actuar es facil por que solo es aprenderse unas frases y ya esta, pero lo dificil es meterse en el papel, en el personaje y actuar delante de todo el mundo.
 <ul>
-<li>3 ó 4 patatas (300g.)</li>
-<li>4 dientes de ajo</li>
-<li>Aceite de oliva</li>
-<li>Sal</li>
 </ul>
-<h2 style="color:blue; font-size: 40px">Elaboración (Pasos)</h2>
+<h2 style="color:blue; font-size: 40px">El motivo del por que me meti en Teatro.</h2>
+<p style="font-size:30px">Mi abuela esta metida tambien en teatro y a hecho muchos cortos y actuaciones a ganado muchos premios de actuacion.Para mi es la mejor actriz y algun dia me gustaria ser tan buena como mi abuela, ella es mi inspiracion y el por que me gusta el teatro.                
 <ol>
-<li>Calentar aceite en una sartén.</li>
-<li>Añadir las patatas cortadas, la sal y los ajos.</li>
-<li>Freír al gusto.</li>
-<li>Servir en plato.</li>
 </ol>
 <hr>
+<p>· <a href="index.html">index</a></p>
+<p>Marta Hernández Moyano</p>
 </body>
 </html>
